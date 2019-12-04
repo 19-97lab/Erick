@@ -1,0 +1,4 @@
+# Node.js
+How to create a server using node.js
+I created a server using node.js' npm commands.Then i created a login form and a registration form that was linked to the mysql database .
+On filling the forms all the details go directly to the server created .
