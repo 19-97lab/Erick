@@ -1,2 +1,1 @@
-# Erick
-Stack Developer
+
